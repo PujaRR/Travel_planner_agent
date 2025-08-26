@@ -1,0 +1,7 @@
+ibm-watsonx-ai
+langchain
+langchain-ibm
+langgraph
+requests
+jupyter
+ipython
